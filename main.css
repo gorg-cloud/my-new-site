@@ -34,6 +34,23 @@ h1 {
     display: block;
 }
 
+.card section {
+    text-align: left;
+    margin-top: 18px;
+}
+
+.card h2 {
+    margin: 0 0 8px;
+    font-size: 18px;
+    color: #111827;
+}
+
+.card section p {
+    margin: 0;
+    color: #4b5563;
+    line-height: 1.6;
+}
+
 p {
     color: #4b5563;
     line-height: 1.5;
